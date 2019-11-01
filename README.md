@@ -1,1 +1,1 @@
-# blackkack game created with html, css, and javascript
+# blackjack game created with html, css, and javascript
